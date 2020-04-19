@@ -1,0 +1,2 @@
+# bmake
+easier cmake alternative 
